@@ -26,7 +26,7 @@ public class WebDemoApplication implements CommandLineRunner {
         String fDir = "F:\\tools\\";
         Map<String, String> fMap = getMap(fDir);
         printPart(cMap, fMap, 0);
-        System.out.println("----------------------- in");
+//        System.out.println("----------------------- in");
 //        printPart(cMap, fMap, 1);
 //        System.out.println("----------------------- not in");
 //        printPart(cMap, fMap, 2);
